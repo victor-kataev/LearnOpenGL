@@ -1,0 +1,9 @@
+﻿  Shader.cpp
+C:\Users\victor.kataev\Desktop\porn\engine\GameEngine\GameEngine\core\Shader.cpp(63,34): warning C4101: 'e': unreferenced local variable
+  main.cpp
+  Generating code
+  3 of 207 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameEngine.vcxproj -> C:\Users\victor.kataev\Desktop\porn\engine\GameEngine\x64\Release\GameEngine.exe
